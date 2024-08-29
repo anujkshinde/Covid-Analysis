@@ -1,1 +1,1 @@
-This repository contains all the analysis of data related to Covid-19 using SQL.
+The COVID-19 Analysis SQL project focuses on analyzing COVID-19 data to gain insights into the pandemic's impact, trends, and patterns. This project aims to provide a robust analysis of COVID-19 data, offering valuable insights to support effective pandemic management and response strategies.
